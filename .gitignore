@@ -1,14 +1,8 @@
 #resources
-*.csv
-*.svg
-*.xlsx
-*.jpg
-*.png
 
 config.py
 Resources/*.csv
 Resources/*.svg
-Resources/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
